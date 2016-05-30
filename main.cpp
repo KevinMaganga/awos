@@ -1,3 +1,6 @@
+// This code is designed to work with the NXP FRDM-K64F board 
+// Mbed Platform
+// c. Kevin Maganga 2016
 #include "mbed.h"
 #include "BMP180.h"
 Serial usb(USBTX,USBRX);
